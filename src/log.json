@@ -3,6 +3,9 @@
     "days": {
         "2025-12-31": [
             { "time": "13:30", "message": "design engineer @ adobe" }
+        ],
+        "2026-01-01": [
+            { "time": "12:45", "message": "software engineer @ figma" }
         ]
     }
 }
