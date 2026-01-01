@@ -100,7 +100,7 @@ function assembleHistory(days: Days) {
         const day_str = date_obj.toLocaleDateString("en-US", options)
             .toLowerCase();
 
-        history_html += `<li><h2>${day_str}</h2>\n<ul>\n`;
+        history_html += `<li><h3>${day_str}</h3>\n<ul>\n`;
 
         // sort entries by time
         const day_entries = days[day];

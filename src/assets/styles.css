@@ -1,8 +1,30 @@
 :root {
     font-family: Helvetica, Arial, sans-serif;
+    color: #444;
 }
 
 body {
-    max-width: 800px;
+    max-width: 500px;
+    padding: 0 20px;
     margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+header {
+    margin-top: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+    color: #666;
+}
+
+footer a {
+    color: #658da8;
 }
