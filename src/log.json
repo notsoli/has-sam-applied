@@ -6,6 +6,11 @@
         ],
         "2026-01-01": [
             { "time": "12:45", "message": "software engineer @ figma" }
+        ],
+        "2026-01-02": [
+            { "time": "14:45", "message": "pestered friend about referral" },
+            { "time": "15:30", "message": "backend engineer @ flex" },
+            { "time": "16:00", "message": "software engineer @ perk" }
         ]
     }
 }
