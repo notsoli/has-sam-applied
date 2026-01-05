@@ -11,6 +11,7 @@
             { "time": "14:45", "message": "pestered friend about referral" },
             { "time": "15:30", "message": "backend engineer @ flex" },
             { "time": "16:00", "message": "software engineer @ perk" }
-        ]
+        ],
+        "2026-01-04": [{ "time": "10:15", "message": "ux designer @ zs" }]
     }
 }
