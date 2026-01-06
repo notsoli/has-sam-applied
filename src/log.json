@@ -15,6 +15,9 @@
         "2026-01-04": [{ "time": "10:15", "message": "ux designer @ zs" }],
         "2026-01-05": [
             { "time": "15:00", "message": "frontend engineer @ planhat" }
+        ],
+        "2026-01-06": [
+            { "time": "16:45", "message": "software engineer @ affirm" }
         ]
     }
 }
