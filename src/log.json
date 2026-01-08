@@ -21,7 +21,8 @@
         ],
         "2026-01-07": [{ "time": "14:30", "message": "designer @ linear" }],
         "2026-01-08": [
-            { "time": "10:15", "message": "frontend engineer @ kayak" }
+            { "time": "10:15", "message": "frontend engineer @ kayak" },
+            { "time": "12:45", "message": "fullstack engineer @ better stack" }
         ]
     }
 }
