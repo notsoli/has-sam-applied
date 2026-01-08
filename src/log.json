@@ -19,6 +19,9 @@
         "2026-01-06": [
             { "time": "16:45", "message": "software engineer @ affirm" }
         ],
-        "2026-01-07": [{ "time": "14:30", "message": "designer @ linear" }]
+        "2026-01-07": [{ "time": "14:30", "message": "designer @ linear" }],
+        "2026-01-08": [
+            { "time": "10:15", "message": "frontend engineer @ kayak" }
+        ]
     }
 }
