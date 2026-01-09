@@ -23,6 +23,9 @@
         "2026-01-08": [
             { "time": "10:15", "message": "frontend engineer @ kayak" },
             { "time": "12:45", "message": "fullstack engineer @ better stack" }
+        ],
+        "2026-01-09": [
+            { "time": "18:00", "message": "software engineer @ unity" }
         ]
     }
 }
