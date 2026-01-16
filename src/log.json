@@ -29,6 +29,9 @@
         ],
         "2026-01-14": [
             { "time": "12:30", "message": "fullstack engineer via aaa global" }
+        ],
+        "2026-01-15": [
+            { "time": "22:30", "message": "frontend engineer @ oden" }
         ]
     }
 }
