@@ -35,6 +35,9 @@
         ],
         "2026-01-16": [
             { "time": "19:00", "message": "software engineer @ alarm.com" }
+        ],
+        "2026-01-20": [
+            { "time": "17:30", "message": "frontend engineer @ blink" }
         ]
     }
 }
