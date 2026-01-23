@@ -22,7 +22,8 @@
         "2026-01-07": [{ "time": "14:30", "message": "designer @ linear" }],
         "2026-01-08": [
             { "time": "10:15", "message": "frontend engineer @ kayak" },
-            { "time": "12:45", "message": "fullstack engineer @ better stack" }
+            { "time": "12:45", "message": "fullstack engineer @ better stack" },
+            { "time": "14:30", "message": "first interview!" }
         ],
         "2026-01-09": [
             { "time": "18:00", "message": "software engineer @ unity" }
@@ -41,6 +42,7 @@
         ],
         "2026-01-21": [
             { "time": "23:30", "message": "software engineer @ northmarq" }
-        ]
+        ],
+        "2026-01-23": [{ "time": "14:30", "message": "second interview!" }]
     }
 }
