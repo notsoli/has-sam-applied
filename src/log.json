@@ -46,6 +46,10 @@
         "2026-01-23": [{ "time": "14:30", "message": "second interview!" }],
         "2026-01-26": [
             { "time": "21:30", "message": "frontend engineer @ micro1" }
+        ],
+        "2026-02-05": [{ "time": "12:00", "message": "talked to cyvl" }],
+        "2026-02-07": [
+            { "time": "16:30", "message": "frontend engineer @ blink" }
         ]
     }
 }
