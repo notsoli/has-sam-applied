@@ -50,6 +50,18 @@
         "2026-02-05": [{ "time": "12:00", "message": "talked to cyvl" }],
         "2026-02-07": [
             { "time": "16:30", "message": "frontend engineer @ blink" }
+        ],
+        "2026-02-23": [
+            { "time": "09:00", "message": "started work trial" }
+        ],
+        "2026-02-27": [
+            { "time": "17:00", "message": "ended work trial" }
+        ],
+        "2026-03-05": [
+            { "time": "17:30", "message": "shotgunned ~6 wttj apps" }
+        ],
+        "2026-03-14": [
+            { "time": "19:00", "message": "operations intern @ cyvl" }
         ]
     }
 }
