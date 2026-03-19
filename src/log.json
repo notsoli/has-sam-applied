@@ -62,6 +62,12 @@
         ],
         "2026-03-14": [
             { "time": "19:00", "message": "operations intern @ cyvl" }
+        ],
+        "2026-03-18": [
+            { "time": "18:00", "message": "pestered friend about referral"}
+        ],
+        "2026-03-19": [
+            { "time": "14:30", "message": "frontend engineer @ whoop"}
         ]
     }
 }
